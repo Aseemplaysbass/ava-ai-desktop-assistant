@@ -1,0 +1,498 @@
+[
+    {
+        "role": "user",
+        "content": "can u tell me a joke"
+    },
+    {
+        "role": "assistant",
+        "content": "Why couldn't the bicycle stand up by itself? Because it was two-tired."
+    },
+    {
+        "role": "user",
+        "content": "whats the weather like rn"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current weather information, it appears to be mostly cloudy with a 50% chance of showers and thunderstorms, and some thunderstorms may be severe with damaging winds and large hail. Additionally, the temperatures in various cities in India are: Ahmedabad 100\u00b0, Bengaluru 87\u00b0, Bhopal 101\u00b0, Chandigarh 109\u00b0, Chennai 95\u00b0, Delhi 109\u00b0, Dispur 88\u00b0, Faridabad 109\u00b0, Guwahati 88\u00b0, Jaipur 109\u00b0, Kolkata 97\u00b0, and Lucknow 105\u00b0. However, the exact weather conditions in your location are not specified, but you can check the interactive map on AccuWeather to view the current weather details for your area."
+    },
+    {
+        "role": "user",
+        "content": "Joke."
+    },
+    {
+        "role": "assistant",
+        "content": "What do you call a fake noodle? An impasta."
+    },
+    {
+        "role": "user",
+        "content": "Can you speak out the joke to me?"
+    },
+    {
+        "role": "assistant",
+        "content": "What do you call a fake noodle? *pause* An impasta."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello."
+    },
+    {
+        "role": "user",
+        "content": "Tell me a joke."
+    },
+    {
+        "role": "assistant",
+        "content": "Why don't eggs tell jokes? They'd crack each other up."
+    },
+    {
+        "role": "user",
+        "content": "What's the weather like right now?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current weather information, the temperatures in various cities in West Bengal, India are: Asansol 96\u00b0, Bally 93\u00b0, Barasat 93\u00b0, Barddhaman 98\u00b0, Bhatpara 93\u00b0, Durgapur 96\u00b0, Haora 93\u00b0, Kamarhati 93\u00b0, Kolkata 93\u00b0, Kulti 98\u00b0, and Maheshtala 94\u00b0. Additionally, in Cooch Behar, the weather is scattered clouds with a feels-like temperature of 90 \u00b0F and 61% humidity. You can also check the interactive map on AccuWeather to view the current weather details for your specific location."
+    },
+    {
+        "role": "user",
+        "content": "What's the weather like in kolkata right now?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current weather information, in Kolkata, the temperature is 97\u00b0F, and it is partly sunny with a RealFeel of 108\u00b0, which indicates a danger of dehydration and heat. The weather forecast also shows that the temperature will decrease to 95\u00b0 by 4 PM and 93\u00b0 by 5 PM."
+    },
+    {
+        "role": "user",
+        "content": "Any play me believer."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant \"play me a believer\" but I'm assuming you're referring to the song \"I'm a Believer\" by The Monkees."
+    },
+    {
+        "role": "user",
+        "content": "Any believer."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a Believer, a song by The Monkees."
+    },
+    {
+        "role": "user",
+        "content": "Imy believer."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a Believer, a classic song by The Monkees."
+    },
+    {
+        "role": "user",
+        "content": "Can you play me a random song of your choice?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'd like to play \"Happy\" by Pharrell Williams for you."
+    },
+    {
+        "role": "user",
+        "content": "What."
+    },
+    {
+        "role": "assistant",
+        "content": "Clap along if you feel like a room without a roof, because I'm happy, clap along if you feel like happiness is the truth."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aseem Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Tell me a joke."
+    },
+    {
+        "role": "assistant",
+        "content": "Why don't scientists trust atoms? Because they make up everything."
+    },
+    {
+        "role": "user",
+        "content": "Thank you."
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome."
+    },
+    {
+        "role": "user",
+        "content": "Patanjali."
+    },
+    {
+        "role": "assistant",
+        "content": "Patanjali is an Indian multinational conglomerate holding company, based in Haridwar, founded by Ramdev and Balkrishna in 2006. It is also the name of an ancient Indian author, mystic, and philosopher who is credited with compiling the Yoga Sutras. Additionally, Patanjali is known for its wide range of herbal and Ayurvedic products."
+    },
+    {
+        "role": "user",
+        "content": "Do you know my mom's name."
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information. I only know your name, Aseem Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Do you know my birthday."
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information. I only know your name, Aseem Swarup Sahoo, but not your birthdate."
+    },
+    {
+        "role": "user",
+        "content": "29th october birthday."
+    },
+    {
+        "role": "assistant",
+        "content": "Your birthday is on October 29th."
+    },
+    {
+        "role": "user",
+        "content": "And i was born on 2006 so i am 18 years old right now and i am turning 19 this year."
+    },
+    {
+        "role": "assistant",
+        "content": "Since you were born in 2006 and the current year is 2025, that would make you 18 years old, and you will indeed be turning 19 this year."
+    },
+    {
+        "role": "user",
+        "content": "My brother's name is aditya sahu."
+    },
+    {
+        "role": "assistant",
+        "content": "Your brother's name is Aditya Sahu."
+    },
+    {
+        "role": "user",
+        "content": "My brother's name is aditya sahu not aditya sahu."
+    },
+    {
+        "role": "assistant",
+        "content": "Your brother's name is Aditya Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "whats my brothers name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your brother's name is Aditya Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "no my brothers name is adit swarup sahoo"
+    },
+    {
+        "role": "assistant",
+        "content": "Your brother's name is Adit Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "my mothers name is dipti rani sahoo"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Dipti Rani Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "my dads name is mahesh prasad sahoo"
+    },
+    {
+        "role": "assistant",
+        "content": "Your father's name is Mahesh Prasad Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aseem Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Who is standing next to asim?"
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant \"Aseem\", not \"Asim\". Since I'm just a text-based AI, I don't have real-time visual information about your surroundings. However, I can try to make an educated guess based on our previous conversation. Perhaps your brother Adit Swarup Sahoo or your parents, Dipti Rani Sahoo and Mahesh Prasad Sahoo, are standing next to you?"
+    },
+    {
+        "role": "user",
+        "content": "Can you play me?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'd like to play \"Uptown Funk\" by Mark Ronson ft. Bruno Mars for you."
+    },
+    {
+        "role": "user",
+        "content": "(query)."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a Believer, a classic song by The Monkees, or would you like to hear something else?"
+    },
+    {
+        "role": "user",
+        "content": "Song."
+    },
+    {
+        "role": "assistant",
+        "content": "Can't Stop the Feeling by Justin Timberlake."
+    },
+    {
+        "role": "user",
+        "content": "Song."
+    },
+    {
+        "role": "assistant",
+        "content": "We Found Love by Rihanna, featuring Calvin Harris."
+    },
+    {
+        "role": "user",
+        "content": "So sweet."
+    },
+    {
+        "role": "assistant",
+        "content": "Sugar by Maroon 5."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aseem Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Tell me a joke."
+    },
+    {
+        "role": "assistant",
+        "content": "Why don't lobsters share? Because they're shellfish."
+    },
+    {
+        "role": "user",
+        "content": "I don't love to share because they are selfish like."
+    },
+    {
+        "role": "assistant",
+        "content": "That's a clever play on words, but the original joke was that lobsters don't share because they're \"shellfish\", a pun on the word \"selfish\"."
+    },
+    {
+        "role": "user",
+        "content": "What's the stock price of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, the current Apple stock price is around $210.23 as of May 15, 2025. However, please note that stock prices can fluctuate rapidly and may have changed since the last update. For the most up-to-date and accurate information, I recommend checking a reliable financial source, such as Yahoo Finance or NASDAQ."
+    },
+    {
+        "role": "user",
+        "content": "You know my brother's name."
+    },
+    {
+        "role": "assistant",
+        "content": "Your brother's name is Adit Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aseem Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "You know my brother's name."
+    },
+    {
+        "role": "assistant",
+        "content": "Your brother's name is Adit Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me a joke?"
+    },
+    {
+        "role": "assistant",
+        "content": "What do you call a can opener that doesn't work? A can't opener."
+    },
+    {
+        "role": "user",
+        "content": "What's the weather like in kolkata right now?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current weather information, in Kolkata, the temperature is 97\u00b0F, and it is partly sunny with a RealFeel of 108\u00b0, which indicates a danger of dehydration and heat. The weather forecast also shows that the temperature will decrease to 95\u00b0 by 4 PM and 93\u00b0 by 5 PM."
+    },
+    {
+        "role": "user",
+        "content": "Anyways."
+    },
+    {
+        "role": "assistant",
+        "content": "Take care, Aseem."
+    },
+    {
+        "role": "user",
+        "content": "What's the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 5:34 PM."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aseem Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Do you know my brother's name."
+    },
+    {
+        "role": "assistant",
+        "content": "Your brother's name is Adit Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Do you remember my birthday."
+    },
+    {
+        "role": "assistant",
+        "content": "Your birthday is on October 29th, and you were born in 2006."
+    },
+    {
+        "role": "user",
+        "content": "What is the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 17 hours, 36 minutes, and 37 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Tell me a joke."
+    },
+    {
+        "role": "assistant",
+        "content": "Why did the scarecrow win an award? Because he was outstanding in his field."
+    },
+    {
+        "role": "user",
+        "content": "What's the stock price of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, the current Apple stock price is around $210.23 as of May 15, 2025. However, please note that stock prices can fluctuate rapidly and may have changed since the last update. For the most up-to-date and accurate information, I recommend checking a reliable financial source, such as Yahoo Finance or NASDAQ."
+    },
+    {
+        "role": "user",
+        "content": "Hello everyone."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aseem."
+    },
+    {
+        "role": "user",
+        "content": "What's my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aseem Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Do you know my brother's name."
+    },
+    {
+        "role": "assistant",
+        "content": "Your brother's name is Adit Swarup Sahoo."
+    },
+    {
+        "role": "user",
+        "content": "Do you remember my birthday."
+    },
+    {
+        "role": "assistant",
+        "content": "Your birthday is on October 29th, and you were born in 2006."
+    },
+    {
+        "role": "user",
+        "content": "What's the stock price of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, the current Apple stock price is around $210.23 as of May 15, 2025, and other sources also report the current price of AAPL to be around $211.26, with a day's open of $212.36 and a closing price of $211.26. However, please note that stock prices can fluctuate rapidly and may have changed since the last update. For the most up-to-date and accurate information, I recommend checking a reliable financial source, such as Yahoo Finance or NASDAQ."
+    },
+    {
+        "role": "user",
+        "content": "Who is the president of the united states?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, the President of the United States is Donald J. Trump, as mentioned in the search results provided earlier. However, please note that my knowledge cutoff is limited to the data I was trained on, and I may not have the most up-to-date information on the current President of the United States. For the most accurate and recent information, I recommend checking a reliable news source."
+    },
+    {
+        "role": "user",
+        "content": "What's the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "It's 17 hours, 43 minutes, and 04 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Aseem."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aseem."
+    },
+    {
+        "role": "user",
+        "content": "Browser."
+    },
+    {
+        "role": "assistant",
+        "content": "Google Chrome."
+    },
+    {
+        "role": "user",
+        "content": "What is this stock price of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the information I have, the current Apple stock price is around $210.02, with a day's open of $210.57, and a closing price of $210.02, as reported by NASDAQ. Additionally, other sources report the stock price as follows: Open: $210.70, Previous Close: $210.06, High: $211.80, and Low: $209.60. Please note that stock prices can fluctuate rapidly and may have changed since the last update."
+    }
+]
